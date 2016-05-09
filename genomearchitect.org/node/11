@@ -14,30 +14,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta about="/integrating_webapollo" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<link rel="shortcut icon" href="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
 <meta content="Implementing Apollo for your community!" about="/integrating_webapollo" property="dc:title" />
-<link rel="shortlink" href="/node/11" />
+<link rel="shortlink" href="11" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/integrating_webapollo" />
+<link rel="canonical" href="../integrating_webapollo" />
   <title>Implementing Apollo for your community! | Web Apollo</title>
   <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
 <style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
-<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
-<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+<style>@import url("../sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("../sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+  <script src="../sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
 <script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
 <script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"4n4BBzygAiITFk4ROeC2j2jVtwf_osivdzuKgipjaaQ","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"jiXbZlc8B4szpoxG1ynfteDtcMGMGTyhrpruCS9N1rg","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-11 node-type-article" >
   <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <a href="11#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
     <header id="navbar" role="banner" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
@@ -49,17 +49,17 @@
         <span class="icon-bar"></span>
       </a>
 
-              <a class="logo pull-left" href="/" title="Home">
-          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+              <a class="logo pull-left" href="../index.html" title="Home">
+          <img src="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
         </a>
       
       
               <div class="nav-collapse collapse">
           <nav role="navigation">
-                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
-<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
-<li class="leaf"><a href="/documentation">Documentation</a></li>
-<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+                          <ul class="menu nav"><li class="first leaf"><a href="../index.html">Home</a></li>
+<li class="leaf"><a href="../downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf"><a href="../documentation">Documentation</a></li>
+<li class="last leaf"><a href="../about-us" title="Development">About Us</a></li>
 </ul>                                              </nav>
         </div>
           </div>
@@ -77,7 +77,7 @@
       
 
     <section class="span12">  
-            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+            <ul class="breadcrumb"><li><a href="../index.html">Home</a></li></ul>      <a id="main-content"></a>
                     <h1 class="page-header">Implementing Apollo for your community!</h1>
                                                         
 <article id="node-11" class="node node-article node-promoted clearfix" about="/integrating_webapollo" typeof="sioc:Item foaf:Document">

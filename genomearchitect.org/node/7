@@ -14,30 +14,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta about="/documentation" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<link rel="shortcut icon" href="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
 <meta content="Using Web Apollo" about="/documentation" property="dc:title" />
-<link rel="shortlink" href="/node/7" />
+<link rel="shortlink" href="7" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/documentation" />
+<link rel="canonical" href="../documentation" />
   <title>Using Web Apollo | Web Apollo</title>
   <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
 <style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
-<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
-<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+<style>@import url("../sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("../sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+  <script src="../sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
 <script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
 <script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"5SzCkfQ_GxmbFMZRpTgbE1Qz_6hhjzfEa5cnabtSG9c","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"4V2D2uekktI3imX8I7zqm57WpeXzC9Ilu_Yk1rIbU6I","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-page" >
   <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <a href="7#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
     <header id="navbar" role="banner" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
@@ -49,17 +49,17 @@
         <span class="icon-bar"></span>
       </a>
 
-              <a class="logo pull-left" href="/" title="Home">
-          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+              <a class="logo pull-left" href="../index.html" title="Home">
+          <img src="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
         </a>
       
       
               <div class="nav-collapse collapse">
           <nav role="navigation">
-                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
-<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
-<li class="leaf active-trail active"><a href="/documentation" class="active-trail active">Documentation</a></li>
-<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+                          <ul class="menu nav"><li class="first leaf"><a href="../index.html">Home</a></li>
+<li class="leaf"><a href="../downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf active-trail active"><a href="../documentation" class="active-trail active">Documentation</a></li>
+<li class="last leaf"><a href="../about-us" title="Development">About Us</a></li>
 </ul>                                              </nav>
         </div>
           </div>
@@ -77,7 +77,7 @@
       
 
     <section class="span12">  
-            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+            <ul class="breadcrumb"><li><a href="../index.html">Home</a></li></ul>      <a id="main-content"></a>
                     <h1 class="page-header">Using Web Apollo</h1>
                                                         
 <article id="node-7" class="node node-page clearfix" about="/documentation" typeof="foaf:Document">
@@ -93,7 +93,7 @@
 	<li><a href="http://webapollo.rtfd.org/" target="blank">Server Installation Guide for WA2.0.x(JB1.11.x) Versions</a></li>
 	<li><a href="http://webapollo.readthedocs.org/en/1.0/" target="blank">Server Installation Guide for WA1.0.x(JB1.11.x) Versions</a></li>
 	<li><a href="http://www.gmod.org/wiki/WebApollo_Installation" target="blank">Server Installation Guide for previous versions</a></li>
-	<li><a href="/web_apollo_user_guide" target="blank">Apollo User Guide</a></li>
+	<li><a href="../web_apollo_user_guide" target="blank">Apollo User Guide</a></li>
 	<li><a href="http://icebox.lbl.gov/WebApolloDemo/web_services/web_service_api.html" target="blank">Apollo Web Service API</a></li>
 	<li><a href="http://gmod.org/wiki/GMOD_in_a_Box/WebApollo" target="blank">Apollo set up instructions specific to the VM of "GMOD in a Box"</a>. Also needed to run Web Apollo at "GMOD in the Cloud"</li>
 	<li><a href="http://www.gmod.org/wiki/WebApollo_Tutorial" target="blank">Apollo Tutorial for versions WebApollo-2014-04-03 and earlier</a> taught as part of the <a href="http://www.gmod.org/wiki/2013_GMOD_Summer_School" target="blank">2013 GMOD Summer School</a></li>

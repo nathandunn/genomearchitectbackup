@@ -14,30 +14,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta about="/web_apollo_user_guide" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<link rel="shortcut icon" href="sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
 <meta content="Apollo User Guide" about="/web_apollo_user_guide" property="dc:title" />
-<link rel="shortlink" href="/node/16" />
+<link rel="shortlink" href="node/16" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/web_apollo_user_guide" />
+<link rel="canonical" href="web_apollo_user_guide" />
   <title>Apollo User Guide | Web Apollo</title>
   <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
 <style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
-<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
-<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+<style>@import url("sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+  <script src="sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
 <script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
 <script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"-zLJ2DsfciLekG5TRjXqIQA1lzNdkW7IFxcoOgVpAeQ","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"wU0YZH3E_ZxPc9Ik9e46eutsItfQPTZGvp2gZYexLb0","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
 </head>
 <body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-16 node-type-page" >
   <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <a href="web_apollo_user_guide#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
     <header id="navbar" role="banner" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
@@ -49,17 +49,17 @@
         <span class="icon-bar"></span>
       </a>
 
-              <a class="logo pull-left" href="/" title="Home">
-          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+              <a class="logo pull-left" href="index.html" title="Home">
+          <img src="sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
         </a>
       
       
               <div class="nav-collapse collapse">
           <nav role="navigation">
-                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
-<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
-<li class="leaf"><a href="/documentation">Documentation</a></li>
-<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+                          <ul class="menu nav"><li class="first leaf"><a href="index.html">Home</a></li>
+<li class="leaf"><a href="downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf"><a href="documentation">Documentation</a></li>
+<li class="last leaf"><a href="about-us" title="Development">About Us</a></li>
 </ul>                                              </nav>
         </div>
           </div>
@@ -77,7 +77,7 @@
       
 
     <section class="span12">  
-            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+            <ul class="breadcrumb"><li><a href="index.html">Home</a></li></ul>      <a id="main-content"></a>
                     <h1 class="page-header">Apollo User Guide</h1>
                                                         
 <article id="node-16" class="node node-page clearfix" about="/web_apollo_user_guide" typeof="foaf:Document">
@@ -103,15 +103,15 @@
 <h4>Table of Contents</h4>
 <div id="navPage">
 <ul>
-	<li><a href="#general">1. General Process of Manual Annotation</a></li>
-	<li><a href="#evdemo">2. Evidence Provided in the Public Demo</a></li>
-	<li><a href="#recon">3. Initial Reconnaissance and Adjustments</a></li>
-	<li><a href="#annotate">4. Annotating a Gene</a></li>
-	<li><a href="#ncregions">5. Annotating Repeat Regions, Transposable Elements, and Non-coding (nc) RNAs.</a></li>
-	<li><a href="#infoeditor">6. The Information Editor</a></li>
-	<li><a href="#saving">7. (No need for) Saving your Annotations</a></li>
-	<li><a href="#export">8. Exporting Data</a></li>
-	<li><a href="#moreinfo">9. Additional Information About Web Apollo</a></li>
+	<li><a href="web_apollo_user_guide#general">1. General Process of Manual Annotation</a></li>
+	<li><a href="web_apollo_user_guide#evdemo">2. Evidence Provided in the Public Demo</a></li>
+	<li><a href="web_apollo_user_guide#recon">3. Initial Reconnaissance and Adjustments</a></li>
+	<li><a href="web_apollo_user_guide#annotate">4. Annotating a Gene</a></li>
+	<li><a href="web_apollo_user_guide#ncregions">5. Annotating Repeat Regions, Transposable Elements, and Non-coding (nc) RNAs.</a></li>
+	<li><a href="web_apollo_user_guide#infoeditor">6. The Information Editor</a></li>
+	<li><a href="web_apollo_user_guide#saving">7. (No need for) Saving your Annotations</a></li>
+	<li><a href="web_apollo_user_guide#export">8. Exporting Data</a></li>
+	<li><a href="web_apollo_user_guide#moreinfo">9. Additional Information About Web Apollo</a></li>
 </ul>
 </div>
 </br>
@@ -142,7 +142,7 @@ means you will not be able to modify the assembled genome sequence itself.</p>
 
 <h4 id="evdemo">2. Evidence Provided in the Public Demo</h4>
 
-<p>The <a href="http://genomearchitect.org/WebApolloDemo" target="blank">Web Apollo Demo</a> was built with the genome of the honey bee (<em>Apis mellifera</em>).
+<p>The <a href="WebApolloDemo.1" target="blank">Web Apollo Demo</a> was built with the genome of the honey bee (<em>Apis mellifera</em>).
 
 <h5>2.1 Evidence in support of protein coding gene models</h5>
 <p><strong>2.1.1 Consensus Gene Sets:</strong></p>
@@ -240,7 +240,7 @@ means you will not be able to modify the assembled genome sequence itself.</p>
 <h5>3.1 Log in</h5>
 
 <p>To begin annotating a gene, login to the <a
-href="http://genomearchitect.org/WebApolloDemo">Web Apollo Demo</a></p>
+href="WebApolloDemo.1">Web Apollo Demo</a></p>
 
 <p>You may choose to go to the ‘Reference Sequence selection’ screen,
 the main entry point for Web Apollo. This page allows users to view
@@ -339,7 +339,7 @@ window. The blue bar at the top includes the following functions:</p>
 
 <figure align="middle">
 <img
-src="/sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_Fig1_B.png"
+src="sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_Fig1_B.png"
 width="700" height="430" alt="Figure 1. The Web Apollo Window
 title="The Web Apollo Window" />
 <figcaption align="left"><strong>Figure 1. Web Apollo Annotation
@@ -540,7 +540,7 @@ alternatives transcripts as the evidence data support.</p>
 
 <figure align="middle">
 <img
-src="/sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo-User_Guide_Fig2.jpg"
+src="sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo-User_Guide_Fig2.jpg"
 width="300" height="210" alt="Zoomed to base level" />
 <figcaption align="left"><strong>Figure 2. Apollo View zoomed to base
 level.</strong> The DNA track and annotation track are visible. The
@@ -670,7 +670,7 @@ proteins from other organisms.</p>
 
 <figure align="middle">
 <img
-src="/sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_Fig3.png"
+src="sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_Fig3.png"
 width="150" height="335" alt="Additional Functionality" />
 <figcaption align="middle"><strong>Figure 3. Additional
 functionality.</strong>This is the right-click menu.</figcaption>
@@ -791,7 +791,7 @@ annotation is the result of a merge.</p>
 
 <figure align="middle">
 <img
-src="/sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_edge-matching.png"
+src="sites/genomearchitect.berkeleybop.org/files/u2/Web_Apollo_User_Guide_edge-matching.png"
 width="700" height="407" alt="Figure 4. Edge Marching" />
 <figcaption align="left"><strong>Figure 4. Edge-matching in Web
 Apollo.</strong> When a feature is selected, the exon edges are marked
@@ -1032,7 +1032,7 @@ formats.</p>
 development. If you have any questions, you may contact the Web Apollo
 development team at <strong>apollo-dev [at] lists [dot] lbl [dot] gov</strong>, or join the conversation on the Apollo mailing list <a
 href="https://docs.google.com/forms/d/1PkOm2SKiaAiAhCaMHEc0YFwFZ9nrZaZkbt29R8PW-W8/viewform?usp=send_form">by filling out this form</a>. More details about Web Apollo installation, requirements, and configuration can be found <a href="http://webapollo.readthedocs.org/en/latest/">http://webapollo.readthedocs.org/en/latest/</a>. The Web Apollo demo is located at <a
-href="http://genomearchitect.org/WebApolloDemo">http://genomearchitect.org/WebApolloDemo</a>. Web Apollo is a member of the <a href="http://gmod.org/">GMOD project</a>.</p>
+href="WebApolloDemo.1">http://genomearchitect.org/WebApolloDemo</a>. Web Apollo is a member of the <a href="http://gmod.org/">GMOD project</a>.</p>
 
 </br>
 

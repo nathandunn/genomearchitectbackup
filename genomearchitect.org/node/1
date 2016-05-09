@@ -14,30 +14,30 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta about="/node/1" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<link rel="shortcut icon" href="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
 <meta content="Apollo" about="/node/1" property="dc:title" />
-<link rel="shortlink" href="/node/1" />
+<link rel="shortlink" href="1" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
-<link rel="canonical" href="/node/1" />
+<link rel="canonical" href="1" />
   <title>Apollo | Web Apollo</title>
   <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
 <style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
-<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
-<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+<style>@import url("../sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("../sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
   <!-- HTML5 element support for IE6-8 -->
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+  <script src="../sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
 <script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
 <script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"Oh6qdH3-oOL9ueIAG3t2pW5p6ZDdKIFoqsco6xdUlS4","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"ASRrHVKN8CXgUWYvgV_7KgTVdgiE9cn13ZDVIliuzdk","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
 </head>
 <body class="html front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1 node-type-page" >
   <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <a href="1#main-content" class="element-invisible element-focusable">Skip to main content</a>
   </div>
     <header id="navbar" role="banner" class="navbar navbar-fixed-top">
   <div class="navbar-inner">
@@ -49,17 +49,17 @@
         <span class="icon-bar"></span>
       </a>
 
-              <a class="logo pull-left" href="/" title="Home">
-          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+              <a class="logo pull-left" href="../index.html" title="Home">
+          <img src="../sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
         </a>
       
       
               <div class="nav-collapse collapse">
           <nav role="navigation">
-                          <ul class="menu nav"><li class="first leaf active"><a href="/" class="active">Home</a></li>
-<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
-<li class="leaf"><a href="/documentation">Documentation</a></li>
-<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+                          <ul class="menu nav"><li class="first leaf active"><a href="../index.html" class="active">Home</a></li>
+<li class="leaf"><a href="../downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf"><a href="../documentation">Documentation</a></li>
+<li class="last leaf"><a href="../about-us" title="Development">About Us</a></li>
 </ul>                                              </nav>
         </div>
           </div>
@@ -106,12 +106,12 @@
     Annotations</em> and <em>DNA</em> tracks to the familiar main
     window.<p>
      <p>Try Apollo at our <a
-    href="http://genomearchitect.org/WebApolloDemo"
+    href="../WebApolloDemo.1"
     target="blank">Public Demo</a>, built with the genome of several organism including the honey bee (<em>Apis mellifera</em>).</p>
 
 </div>
 <div class="span4">
-<img src="/sites/genomearchitect.org/files/u2/Hackathon-logo-image.png" width="300" height="238" alt="Apollo Hackathon" />
+<img src="../sites/genomearchitect.org/files/u2/Hackathon-logo-image.png" width="300" height="238" alt="Apollo Hackathon" />
 </div>
 </div>
 <div class="row">
@@ -140,13 +140,13 @@
 </div>
 <div class="span3">
 <h4>Downloads</h4>
-<p><a href="http://genomearchitect.org/downloads">Download Apollo</a></p>
+<p><a href="../downloads">Download Apollo</a></p>
 <p><a href="https://github.com/GMOD/Apollo">Our code on Github</a></p>
 </div>
 <div class="span4">
 <h4>Documentation</h4>
 <p><a href="https://github.com/GMOD/Apollo/milestones">Roadmap in github milestones</a></p>
-<p><a href="http://genomearchitect.org/documentation">User guides, instructions on Apollo Web API, and Tutorial at GMOD Summer School</a></p>
+<p><a href="../documentation">User guides, instructions on Apollo Web API, and Tutorial at GMOD Summer School</a></p>
 <p><a href="http://webapollo.readthedocs.org/en/latest/">Installation and configuration guide</a></p>  
 <p><a href="https://github.com/GMOD/Apollo/issues">Report issues on Github</a></p>  
 <p>Questions can be sent to our <a href="mailto:apollo@lists.lbl.gov">Apollo user</a> mailing list.  You can subscribe <a href="mailto:sympa@lists.lbl.gov?subject=subscribe apollo&body=Enter a name if you want after 'subscribe apollo' in the subject.">by sending this email</a> or <a href="https://docs.google.com/forms/d/1PkOm2SKiaAiAhCaMHEc0YFwFZ9nrZaZkbt29R8PW-W8/viewform?usp=send_form">fill out this form</a> to subscribe to the list or use a <a href="http://www.sympa.org/manual/sympa-commands">sympa command</a> sent to sympa@lists.lbl.gov.
@@ -175,10 +175,10 @@
 
         <h2 class="block-title">What&#039;s New?</h2>
     
-  <ul class="menu nav"><li class="first leaf"><a href="/apollo-release-202">New Apollo Release 2.0.2</a></li>
-<li class="leaf"><a href="/apollo-cheat-sheet">Apollo cheat sheet.</a></li>
-<li class="leaf"><a href="/integrating_webapollo">Implementing Apollo for your community!</a></li>
-<li class="last leaf"><a href="/old-apollo">Looking for Desktop Apollo?</a></li>
+  <ul class="menu nav"><li class="first leaf"><a href="../apollo-release-202">New Apollo Release 2.0.2</a></li>
+<li class="leaf"><a href="../apollo-cheat-sheet">Apollo cheat sheet.</a></li>
+<li class="leaf"><a href="../integrating_webapollo">Implementing Apollo for your community!</a></li>
+<li class="last leaf"><a href="../old-apollo.1">Looking for Desktop Apollo?</a></li>
 </ul>  
 </section> <!-- /.block -->
   </div>
