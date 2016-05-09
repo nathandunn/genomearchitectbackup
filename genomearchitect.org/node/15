@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/apollo-cheat-sheet" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<meta content="Apollo cheat sheet." about="/apollo-cheat-sheet" property="dc:title" />
+<link rel="shortlink" href="/node/15" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/apollo-cheat-sheet" />
+  <title>Apollo cheat sheet. | Web Apollo</title>
+  <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
+<style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
+<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"TNjtcBxge9RFyEndp35TGFkNwxJNZWdLOSq7Q7gxvek","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-15 node-type-article" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+              <a class="logo pull-left" href="/" title="Home">
+          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+        </a>
+      
+      
+              <div class="nav-collapse collapse">
+          <nav role="navigation">
+                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf"><a href="/documentation">Documentation</a></li>
+<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+</ul>                                              </nav>
+        </div>
+          </div>
+  </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#header -->
+
+  <div class="row-fluid">
+
+      
+
+    <section class="span12">  
+            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+                    <h1 class="page-header">Apollo cheat sheet.</h1>
+                                                        
+<article id="node-15" class="node node-article node-promoted clearfix" about="/apollo-cheat-sheet" typeof="sioc:Item foaf:Document">
+
+
+  <header>
+            
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-02-18T18:26:41-08:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Moni Munoz-Torres</span> on Tue, 02/18/2014 - 18:26</span>      </span>
+      </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h4>A Quick List with everything you need to know to get your Web Apollo instance going!</h4>
+
+<ul>
+	<li>The article describing Apollo can be found in <a href="http://genomebiology.com/2013/14/8/R93/abstract" target="blank">Genome Biology <strong>14</strong>:R93.</a></li>
+	<li>You may find our user guide at <a href="/web_apollo_user_guide">http://genomearchitect.org/web_apollo_user_guide</a></li>
+	<li>You may browse through a few presentations on the 'How Tos' of Web Apollo on <a href="http://www.slideshare.net/MonicaMunozTorres/"><strong>Slide</strong>Share.</a></li>
+	<li>You can download the latest version of Web Apollo from <a href="http://genomearchitect.org/webapollo/releases/">https://github.com/GMOD/Apollo/releases/latest</a></li>
+	<li><a href="http://webapollo.readthedocs.org/en/latest/">Instructions for Web Apollo installation and configuration are available here</a>.</li>
+	<li>And a public <a href="http://genomearchitect.org/WebApolloDemo/">Web Apollo honey bee (<em>Apis mellifera</em>) demonstration site</a> is also available.</li>
+</ul>
+</div></div></div>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  </body>
+</html>

@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/current/install.html" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small.png" type="image/png" />
+<meta content="Download and Install Desktop Apollo" about="/current/install.html" property="dc:title" />
+<link rel="shortlink" href="/node/13" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/current/install.html" />
+  <title>Download and Install Desktop Apollo | Web Apollo</title>
+  <style>@import url("http://genomearchitect.org/modules/system/system.base.css?ngaell");</style>
+<style>@import url("http://genomearchitect.org/modules/field/theme/field.css?ngaell");</style>
+<style>@import url("http://genomearchitect.org/sites/all/modules/ctools/css/ctools.css?ngaell");</style>
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" media="all" />
+<style>@import url("http://genomearchitect.org/sites/all/themes/bootstrap/css/overrides.css?ngaell");</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://genomearchitect.org/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script src="http://genomearchitect.org/misc/jquery.once.js?v=1.2"></script>
+<script src="http://genomearchitect.org/misc/drupal.js?ngaell"></script>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?ngaell"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bootstrap","theme_token":"AYk1tL--rhrRwydN67LUBrdyWfD6K_0olKAysnmKAmU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/js\/bootstrap.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/netdna.bootstrapcdn.com\/twitter-bootstrap\/2.3.2\/css\/bootstrap-combined.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-13 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+              <a class="logo pull-left" href="/" title="Home">
+          <img src="http://genomearchitect.org/sites/genomearchitect.org/files/ApolloLogo-letter-2-small_0.png" alt="Home" />
+        </a>
+      
+      
+              <div class="nav-collapse collapse">
+          <nav role="navigation">
+                          <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/downloads" title="Download Web Apollo">Downloads</a></li>
+<li class="leaf"><a href="/documentation">Documentation</a></li>
+<li class="last leaf"><a href="/about-us" title="Development">About Us</a></li>
+</ul>                                              </nav>
+        </div>
+          </div>
+  </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#header -->
+
+  <div class="row-fluid">
+
+      
+
+    <section class="span12">  
+            <ul class="breadcrumb"><li><a href="/">Home</a></li></ul>      <a id="main-content"></a>
+                    <h1 class="page-header">Download and Install Desktop Apollo</h1>
+                                                        
+<article id="node-13" class="node node-page clearfix" about="/current/install.html" typeof="foaf:Document">
+
+
+  <header>
+            
+      </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><html>
+<head>
+    <title>Install Apollo Genome Annotation Curation Tool</title>
+    <script type="text/javascript">
+function whatPlatform()
+{
+    plat="other";
+    thisAgent = navigator.userAgent.toLowerCase();
+
+    // the order of the names is important, since these are not nested ifs
+    if (thisAgent.indexOf("win") != -1)
+    {
+        plat="win";
+    }
+    if (thisAgent.indexOf("95") != -1)
+    {
+        plat="win";
+    }
+    if (thisAgent.indexOf("98") != -1)
+    {
+        plat="win";
+    }
+    if (thisAgent.indexOf("nt") != -1)
+    {
+        plat="win";
+    }
+
+    if (thisAgent.indexOf("mac") != -1)
+    {
+        var MacOSXPlugIn = navigator.plugins["Default Plugin Carbon.cfm"];
+        if (MacOSXPlugIn || thisAgent.indexOf("omniweb") != -1)
+        {
+            //Change value to true to enable the applet for Mac OS X
+            //This variable has been introduced to this page as the support for
+            //applets on Mac OS X has been questionable.
+            enableAppletForMacOSX = true;
+            plat="macosx";
+        }
+        if (thisAgent.indexOf("os x") != -1)
+        {
+            enableAppletForMacOSX = true;
+            plat="macosx";
+        }
+    }
+
+    if (thisAgent.indexOf("sun") != -1)
+    {
+        plat="solaris";
+    }
+    if (thisAgent.indexOf("solaris") != -1)
+    {
+        plat="solaris";
+    }
+    if (thisAgent.indexOf("aix") != -1)
+    {
+        plat="aix";
+    }
+    if (thisAgent.indexOf("ibm") != -1)
+    {
+        plat="aix";
+    }
+    if (thisAgent.indexOf("dec") != -1)
+    {
+        plat="digitalunix";
+    }
+    if (thisAgent.indexOf("osf") != -1)
+    {
+        plat="digitalunix";
+    }
+
+    if (thisAgent.indexOf("digital") != -1)
+    {
+        plat="digitalunix";
+    }
+    if (thisAgent.indexOf("hp") != -1)
+    {
+        plat="hpux";
+    }
+    if (thisAgent.indexOf("unix") != -1)
+    {
+        plat="unix";
+    }
+    if (thisAgent.indexOf("sco") != -1)
+    {
+        plat="sco";
+    }
+    if (thisAgent.indexOf("bsd") != -1)
+    {
+        plat="bsd";
+    }
+    if (thisAgent.indexOf("free") != -1)
+    {
+        plat="freebsd";
+    }
+    if (thisAgent.indexOf("open") != -1)
+    {
+        plat="openbsd";
+    }
+    if (thisAgent.indexOf("netbsd") != -1)
+    {
+        plat="netbsd";
+    }
+    if (thisAgent.indexOf("linux") != -1)
+    {
+        plat="linux";
+    }
+    if (thisAgent.indexOf("reliant") != -1)
+    {
+        plat="reliant";
+    }
+
+    if (thisAgent.indexOf("sgi") != -1)
+    {
+        plat="irix";
+    }
+    if (thisAgent.indexOf("silicon") != -1)
+    {
+        plat="irix";
+    }
+    if (thisAgent.indexOf("irix") != -1)
+    {
+        plat="irix";
+    }
+    if (thisAgent.indexOf("os/390") != -1)
+    {
+        plat="os390";
+    }
+
+
+    // now determine what platforms are available, and reset the chosen
+    // platform based on whether the platform is available
+    // if you want the user to get a message that the desired platform
+    // is NOT available, set the fallback "plat" to "notavailable"
+    // the order is important, as it indicated the fallback order
+    // every platform above, must have a fall back below
+
+    platAvail="notavailable";
+
+    platAvail="win";
+    if ((plat=="win") && (platAvail!="win"))
+    {
+        plat="other";
+    }
+
+    platAvail="macosx";
+    if ((plat=="macosx") && (platAvail!="macosx"))
+    {
+        plat="unix";
+    }
+
+    platAvail="solaris";
+    if ((plat=="solaris") && (platAvail!="solaris"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="aix") && (platAvail!="aix"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="digitalunix") && (platAvail!="digitalunix"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="hpux") && (platAvail!="hpux"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="sco") && (platAvail!="sco"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="freebsd") && (platAvail!="freebsd"))
+    {
+        plat="bsd";
+    }
+
+    if ((plat=="openbsd") && (platAvail!="openbsd"))
+    {
+        plat="bsd";
+    }
+
+    if ((plat=="netbsd") && (platAvail!="netbsd"))
+    {
+        plat="bsd";
+    }
+
+    if ((plat=="bsd") && (platAvail!="bsd"))
+    {
+        plat="unix";
+    }
+
+    platAvail="linux";
+    if ((plat=="linux") && (platAvail!="linux"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="reliant") && (platAvail!="reliant"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="irix") && (platAvail!="irix"))
+    {
+        plat="unix";
+    }
+
+    if ((plat=="os390") && (platAvail!="os390"))
+    {
+        plat="unix";
+    }
+
+    platAvail="unix";
+
+    if ((plat=="unix") && (platAvail!="unix"))
+    {
+        plat="other";
+    }
+
+    if ((plat=="other") && (platAvail!="other"))
+    {
+        plat="notavailable";
+    }
+}
+
+function displayMarker(whatPlat)
+{
+    if (whatPlat==plat)
+    {
+        document.write("<font color=\"green\"><b>&gt</b></font>");
+    }
+}
+
+whatPlatform();
+    </script>
+</head>
+
+<body> 
+<center>
+<h2>
+<a href="http://genomearchitect.org">Current Apollo Website &rarr;</a>
+</h2>
+<h3 align="center"><font color="red">Please be aware that we are no longer developing the desktop version of Apollo and that support for its use has been discontinued.</font></h3>
+<br>
+ <h4>Version 1.11.8 (February, 2013)</h4>
+ </center>
+ <center>
+        <font size="3"><b>Available Installers</b></font><br>
+        <table border="1" cellpadding="3" cellspacing="10">
+            <tr>
+                <td></td>
+                <td></td>
+                <td><b>Platform</b></td>
+                <td><b>includes Java VM</b></td>
+                <td><b>without Java VM</b></td>
+                <td><b>Instructions</b></td>
+            </tr>
+            <tr>
+                <td><script type="text/javascript">displayMarker("win")</script></td>
+                <td><center><img src="/sites/genomearchitect.berkeleybop.org/files/u2/win.gif" width="26" height="16" alt="Windows" /></center></td>
+                <td>Windows</td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_windows_with_jre.exe">Download</a></center></td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_windows.exe">Download</a></center></td>
+                <td><center><a href="#windows">View</a></center></td>
+            </tr>
+            <tr>
+                <td><script type="text/javascript">displayMarker("macosx")</script></td>
+                <td><center><img src="/sites/genomearchitect.berkeleybop.org/files/u2/macosx.gif" width="26" height="16" alt="MacOS X" /></center></td>
+                <td>Mac OS X</td>
+                <td></td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_macos.dmg">Download</a></center></td>
+                <td><center><a href="#macosx">View</a></center></td>
+            </tr>
+            <tr>
+                <td><script type="text/javascript">displayMarker("linux")</script></td>
+                <td><center><img src="/sites/genomearchitect.berkeleybop.org/files/u2/linux.gif" width="14" height="16" alt="Linux" /></center></td>
+                <td>Linux</td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_linux_with_jre.sh">Download</a></center></td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_unix.sh">Download</a></center></td>
+                <td><center><a href="#linux">View</a></center></td>
+            </tr>
+            <tr>
+                <td><script type="text/javascript">displayMarker("solaris")</script></td>
+                <td><center><img src="/sites/genomearchitect.berkeleybop.org/files/u2/solaris.gif" width="26" height="16" alt="Solaris" /></center></td>
+                <td>Solaris</td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_solaris_with_jre.sh">Download</a></center></td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_unix.sh">Download</a></center></td>
+                <td><center><a href="#solaris">View</a></center></td>
+            </tr>
+            <tr>
+                <td><script type="text/javascript">displayMarker("unix")</script></td>
+                <td><center><img src="/sites/genomearchitect.berkeleybop.org/files/u2/unix.gif" width="26" height="16" alt="Unix" /></center></td>
+                <td>Any Unix Platform</td>
+                <td></td>
+                <td><center><a href="http://icebox.lbl.gov/apollo/legacy/installers/Apollo_unix.sh">Download</a></center></td>
+                <td><center><a href="#unix">View</a></center></td>
+            </tr>
+        </table>
+    </center>
+    <br>
+    <hr>
+    <br>
+
+    <a href="#windows" name="windows">
+        <font size="5">Windows Instructions:</font>
+</a>
+<br>
+        <ul>
+            <b>Instructions</b><br>
+            <br>
+            <ul>
+                <li>If you already have an earlier version of Apollo installed, use <code><b>"Add/Remove Programs"</b></code> in the Control Panel to remove the old version before installing the new one.</li>
+                <li>After downloading the installer, double-click <code><b>"Apollo_windows.exe"</b></code> or <code><b>"Apollo_windows_with_jre.exe"</b></code> depending on which version you downloaded.</li>
+            </ul>
+	    <br>
+	    <b>Notes</b><br>
+	    <br>
+	    <ul>
+		<li>If you're having trouble running Apollo from the installer (with all the different Windows versions and configurations out there, the installer sometimes has trouble setting the executable), download <a href="http://icebox.lbl.gov/apollo/legacy/installers/apollo_batch.zip">apollo_batch.zip</a>, unzip the file, and put <code><b>apollo.bat</b></code> in the <code><b>bin</b></code> directory inside the directory where Apollo was installed.  Then run the batch file to launch Apollo.</li>
+        </ul>
+    <br>
+    <hr>
+    <br>
+
+    <a href="#macosx" name="macosx">
+        <font size="5">Mac OS X Instructions:</font>
+</a>
+<br>
+        <ul>
+            <b>Instructions</b><br>
+            <br>
+            <ul>
+                <li>After downloading the installer, double-click <code><b>"Apollo_macos"</b></code> (which should have appeared on your Desktop).</li>
+            </ul>
+            <br>
+            <b>Notes</b><br>
+            <br>
+            <ul>
+                <li>If you are on Mac OS X version 10.4 or higher, you should install JDK1.5, if you don't already have it. Please see <a href="http://www.apple.com/softwareupdate">Apple's instructions on how to do this</a>, using Software Updates.</li>
+                <li>If you've previously installed Apollo, you should remove the old version before installing the new one. The easiest way to do this it to find the Apollo folder (usually it's in Applications) and move it to the trash. Do the same with the Apollo icon (otherwise you may end up with two!)</a>.</li>
+            </ul>
+        </ul>
+    <br>
+    <hr>
+    <br>
+
+    <a href="#linux" name="linux">
+        <font size="5">Linux Instructions:</font>
+</a>
+<br>
+        <ul>
+            <b>Instructions</b><br>
+            <br>
+            <ul>
+                <li>After downloading the installer, open a shell and <code><b>cd</b></code> to the directory where you downloaded the installer.</li>
+                <li>At the prompt, type <code><b>"/bin/sh Apollo_unix.sh"</b></code> or <code><b>"/bin/sh Apollo_linux_with_jre.sh"</b></code> depending on which version you downloaded.</li>
+            </ul>
+            <br>
+            <b>Notes</b><br>
+            <br>
+            <ul>
+                <li>When asked where you want to create links, you probably don't need any, but if you want a link, don't choose the same directory where you installed Apollo--if you do, then the link will overwrite the Apollo executable!</li>
+                <li>If you do not have a Java virtual machine installed, you can download the package above that includes one or download one from <a href="http://java.sun.com/javase/index.jsp">Sun's Java web site</a>.</li>
+                <li>If you have a 64-bit make sure you have an appropriate JVM installed.</li>
+            </ul>
+        </ul>
+    <br>
+    <hr>
+    <br>
+
+    <a href="#solaris" name="solaris">
+        <font size="5">Solaris Instructions:</font>
+</a>
+<br>
+        <ul>
+            <b>Instructions</b><br>
+            <br>
+            <ul>
+                <li>After downloading the installer, open a shell and <code><b>cd</b></code> to the directory where you downloaded the installer.</li>
+                <li>At the prompt, type <code><b>"/bin/sh Apollo_unix.sh"</b></code> or <code><b>"/bin/sh Apollo_solaris_with_jre.sh"</b></code> depending on which version you downloaded.</li>
+            </ul>
+            <br>
+            <b>Notes</b><br>
+            <br>
+            <ul>
+                <li>When asked where you want to create links, you probably don't need any, but if you want a link, don't choose the same directory where you installed Apollo--if you do, then the link will overwrite the Apollo executable!</li>
+                <li>If you do not have a Java virtual machine installed, you can download the package above that includes one or download one from <a href="http://java.sun.com/javase/index.jsp">Sun's Java web site</a>.</li>
+            </ul>
+        </ul>
+    <br>
+    <hr>
+    <br>
+
+    <a href="#unix" name="unix">
+        <font size="5">Unix Instructions:</font>
+</a>
+<br>
+        <ul>
+            <b>Instructions</b><br>
+            <br>
+            <ul>
+                <li>After downloading the installer, open a shell and <code><b>cd</b></code> to the directory where you downloaded the installer.</li>
+                <li>At the prompt, type <code><b>"/bin/sh Apollo_unix.sh"</b></code>.</li>
+            </ul>
+            <br>
+            <b>Notes</b><br>
+            <br>
+            <ul>
+                <li>When asked where you want to create links, you probably don't need any, but if you want a link, don't choose the same directory where you installed Apollo--if you do, then the link will overwrite the Apollo executable!</li>
+                <li>You need to install JDK1.5+.  You can download it from <a href="http://java.sun.com/javase/index.jsp">Sun's Java web site</a>.</li>
+            </ul>
+        </ul>
+    <br>
+    <hr>
+    </font>
+</body>
+</html></div></div></div>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  </body>
+</html>
